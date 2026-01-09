@@ -22,7 +22,8 @@ import Location from './pages/Location';
 
 function App() {
   // Only use basename in production (GitHub Pages), not in development
-  const basename = process.env.NODE_ENV === 'production' ? process.env.PUBLIC_URL : undefined;
+  // GitHub Pages URL: https://AyomideCommunity.github.io/laundromat-co
+  const basename = process.env.NODE_ENV === 'production' ? '/laundromat-co' : undefined;
   
   return (
     <Router basename={basename}>
