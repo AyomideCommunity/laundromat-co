@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laundromat-co/static/css/main.f855e6bc.css",
+    "main.js": "/laundromat-co/static/js/main.615c8581.js",
+    "static/js/453.e02c546d.chunk.js": "/laundromat-co/static/js/453.e02c546d.chunk.js",
+    "index.html": "/laundromat-co/index.html",
+    "main.f855e6bc.css.map": "/laundromat-co/static/css/main.f855e6bc.css.map",
+    "main.615c8581.js.map": "/laundromat-co/static/js/main.615c8581.js.map",
+    "453.e02c546d.chunk.js.map": "/laundromat-co/static/js/453.e02c546d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.615c8581.js"
+  ]
+}
